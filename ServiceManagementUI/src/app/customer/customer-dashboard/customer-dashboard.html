@@ -1,0 +1,138 @@
+<div class="dashboard-container fade-in">
+  <!-- Header -->
+  <div class="dashboard-header">
+    <h1>Welcome Back!</h1>
+    <p>Manage your service requests and explore our professional services</p>
+  </div>
+
+  <!-- Stats Grid -->
+  <div class="stats-grid" *ngIf="stats">
+    <div class="stat-card">
+      <div class="stat-icon primary">
+        <mat-icon>assignment</mat-icon>
+      </div>
+      <div class="stat-content">
+        <h3>{{stats.totalRequests || 0}}</h3>
+        <p>Total Requests</p>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon warning">
+        <mat-icon>pending_actions</mat-icon>
+      </div>
+      <div class="stat-content">
+        <h3>{{stats.pendingRequests || 0}}</h3>
+        <p>Pending</p>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon success">
+        <mat-icon>check_circle</mat-icon>
+      </div>
+      <div class="stat-content">
+        <h3>{{stats.completedRequests || 0}}</h3>
+        <p>Completed</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Service Categories -->
+  <div class="content-card">
+    <div class="content-card-header">
+      <h3>Our Services</h3>
+      <button mat-raised-button color="primary" routerLink="/customer/create-request">
+        <mat-icon>add</mat-icon> New Request
+      </button>
+    </div>
+
+    <div class="categories-grid">
+      <mat-card *ngFor="let category of categories" class="category-card" (click)="createRequest()">
+        <div class="category-icon">
+          <mat-icon>{{getCategoryIcon(category.categoryName)}}</mat-icon>
+        </div>
+        <mat-card-content>
+          <h4>{{category.categoryName}}</h4>
+          <p>{{category.description || 'Professional services available'}}</p>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
+
+  <!-- Most Popular Services -->
+  <div class="content-card" *ngIf="popularServices.length > 0">
+    <div class="content-card-header">
+      <h3><mat-icon>trending_up</mat-icon> Most Popular Services</h3>
+      <p class="subtitle">See what services our customers love most</p>
+    </div>
+
+    <div class="popular-services-grid">
+      <div *ngFor="let service of popularServices; let i = index" class="popular-service-item"
+        [class.champion]="i === 0">
+        <div class="service-medal" [class.gold]="i === 0" [class.silver]="i === 1" [class.bronze]="i === 2">
+          <mat-icon *ngIf="i < 3">emoji_events</mat-icon>
+          <span *ngIf="i >= 3">{{i + 1}}</span>
+        </div>
+        <div class="service-details">
+          <h4>{{service.serviceName}}</h4>
+          <p class="category-badge">{{service.categoryName}}</p>
+          <div class="service-metrics">
+            <div class="metric">
+              <mat-icon>assignment</mat-icon>
+              <span>{{service.requestCount}} requests</span>
+            </div>
+            <div class="metric">
+              <mat-icon>check_circle</mat-icon>
+              <span>{{service.completionRate}}% completed</span>
+            </div>
+            <div class="metric rating">
+              <mat-icon>star</mat-icon>
+              <span>{{service.avgRating}}/5</span>
+            </div>
+          </div>
+        </div>
+        <div class="service-badge" *ngIf="i === 0">
+          <span>🏆 MOST POPULAR</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recent Requests -->
+  <div class="content-card" *ngIf="recentRequests.length > 0">
+    <div class="content-card-header">
+      <h3>Recent Requests</h3>
+      <button mat-button routerLink="/customer/my-requests">View All</button>
+    </div>
+
+    <div class="requests-list">
+      <div *ngFor="let request of recentRequests" class="request-item">
+        <div class="request-info">
+          <h4>{{request.serviceName}}</h4>
+          <p>{{request.issueDescription | slice:0:80}}...</p>
+          <small>{{request.createdDate | date:'medium'}}</small>
+        </div>
+        <div class="request-status">
+          <span class="status-badge" [ngClass]="'status-' + request.status.toLowerCase()">
+            {{request.status}}
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick Actions -->
+  <div class="quick-actions">
+    <button mat-raised-button color="primary" routerLink="/customer/create-request">
+      <mat-icon>add_circle</mat-icon>
+      Request Service
+    </button>
+    <button mat-raised-button routerLink="/customer/my-requests">
+      <mat-icon>list</mat-icon>
+      My Requests
+    </button>
+    <button mat-raised-button routerLink="/customer/submit-feedback">
+      <mat-icon>feedback</mat-icon>
+      Give Feedback
+    </button>
+  </div>
+</div>

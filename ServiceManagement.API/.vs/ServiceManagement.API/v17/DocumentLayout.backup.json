@@ -1,0 +1,1058 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\servicerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\servicerequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE8250A-A312-49C9-A06B-3B93333F0214}|..\\TestProject\\TestProject.csproj|c:\\capstone_project\\servicemanagementsystem\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE8250A-A312-49C9-A06B-3B93333F0214}|..\\TestProject\\TestProject.csproj|c:\\capstone_project\\servicemanagementsystem\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\servicemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:servicemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\technicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\technicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\technician\\techniciantaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\technician\\techniciantaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\technician\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\technician\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\technician\\technicianperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\technician\\technicianperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\technician\\techniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\technician\\techniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\servicerequest\\servicerequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\servicerequest\\servicerequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\servicerequest\\servicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\servicerequest\\servicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\servicerequest\\createservicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\servicerequest\\createservicerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\manager\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\manager\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\manager\\performancestatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\manager\\performancestatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\manager\\assigntechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\manager\\assigntechniciandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\manager\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\manager\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\admin\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\admin\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\admin\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\admin\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\admin\\servicecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\admin\\servicecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\admin\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\admin\\assignroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\admin\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\admin\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\data\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:data\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\servicecatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\servicecatalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\iservicecatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\iservicecatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\servicecatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\servicecatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\admincategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\admincategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\iadmincatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\iadmincatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\itechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\itechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\technicianassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\technicianassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\servicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\servicecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\adminservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\adminservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|c:\\capstone_project\\servicemanagementsystem\\servicemanagement.api\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{92BA6C31-33D1-77D8-D50B-CE8E9FBC9ECF}|ServiceManagement.API.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\FeedbackControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\FeedbackControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T17:06:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBillingService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IBillingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBillingService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IBillingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBillingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:39:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\FeedbackService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\FeedbackService.cs",
+              "RelativeToolTip": "Services\\Implementations\\FeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:43:47.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceManagement.API.csproj",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\ServiceManagement.API.csproj",
+              "RelativeDocumentMoniker": "ServiceManagement.API.csproj",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\ServiceManagement.API.csproj",
+              "RelativeToolTip": "ServiceManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T08:59:05.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:12:54.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:13:18.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "..\\TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T08:08:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ServiceRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ServiceRequestService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ServiceRequestService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ServiceRequestService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:12:54.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:21:11.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:51:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnicianService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\TechnicianService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\TechnicianService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\TechnicianService.cs",
+              "RelativeToolTip": "Services\\Implementations\\TechnicianService.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAGEBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:17:28.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\NotificationService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\NotificationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\NotificationService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T17:06:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FeedbackControler.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\FeedbackControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackControler.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\FeedbackControler.cs",
+              "RelativeToolTip": "Controllers\\FeedbackControler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:53:38.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T17:08:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateTaskStatusDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\UpdateTaskStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Technician\\UpdateTaskStatusDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\UpdateTaskStatusDto.cs",
+              "RelativeToolTip": "DTOs\\Technician\\UpdateTaskStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:59:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TechnicianTaskDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianTaskDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Technician\\TechnicianTaskDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianTaskDto.cs",
+              "RelativeToolTip": "DTOs\\Technician\\TechnicianTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:27:04.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TechnicianPerformanceDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianPerformanceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Technician\\TechnicianPerformanceDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianPerformanceDto.cs",
+              "RelativeToolTip": "DTOs\\Technician\\TechnicianPerformanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:12:52.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillingController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\BillingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillingController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\BillingController.cs",
+              "RelativeToolTip": "Controllers\\BillingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:40:35.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillingService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\BillingService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\BillingService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\BillingService.cs",
+              "RelativeToolTip": "Services\\Implementations\\BillingService.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwv8YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:40:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechnicianDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Technician\\TechnicianDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Technician\\TechnicianDto.cs",
+              "RelativeToolTip": "DTOs\\Technician\\TechnicianDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:14:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\ServiceRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ServiceRequest\\ServiceRequestResponseDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\ServiceRequestResponseDto.cs",
+              "RelativeToolTip": "DTOs\\ServiceRequest\\ServiceRequestResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:47:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceRequestDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\ServiceRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ServiceRequest\\ServiceRequestDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\ServiceRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ServiceRequest\\ServiceRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:16:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateServiceRequestDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\CreateServiceRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ServiceRequest\\CreateServiceRequestDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\ServiceRequest\\CreateServiceRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ServiceRequest\\CreateServiceRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T10:40:12.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateStatusDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\UpdateStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Manager\\UpdateStatusDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\UpdateStatusDto.cs",
+              "RelativeToolTip": "DTOs\\Manager\\UpdateStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:48:17.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PerformanceStatsDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\PerformanceStatsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Manager\\PerformanceStatsDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\PerformanceStatsDto.cs",
+              "RelativeToolTip": "DTOs\\Manager\\PerformanceStatsDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:15:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignTechnicianDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\AssignTechnicianDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Manager\\AssignTechnicianDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\AssignTechnicianDto.cs",
+              "RelativeToolTip": "DTOs\\Manager\\AssignTechnicianDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:00:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignmentDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\AssignmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Manager\\AssignmentDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Manager\\AssignmentDto.cs",
+              "RelativeToolTip": "DTOs\\Manager\\AssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:19:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserListDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\UserListDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\UserListDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\UserListDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\UserListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:58:18.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:58:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceCategoryDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\ServiceCategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\ServiceCategoryDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\ServiceCategoryDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\ServiceCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:20:17.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateServiceDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\CreateServiceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\CreateServiceDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\CreateServiceDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\CreateServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T15:18:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Data\\Seed\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\Seed\\DataSeeder.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Data\\Seed\\DataSeeder.cs",
+              "RelativeToolTip": "Data\\Seed\\DataSeeder.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwBIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:14:30.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminCategoryService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AdminCategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AdminCategoryService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AdminCategoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AdminCategoryService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv18AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:40:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServiceCatalogService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ServiceCatalogService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ServiceCatalogService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ServiceCatalogService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ServiceCatalogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:32:32.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceCatalogController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ServiceCatalogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceCatalogController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ServiceCatalogController.cs",
+              "RelativeToolTip": "Controllers\\ServiceCatalogController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:43:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssignRoleDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\AssignRoleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\AssignRoleDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Admin\\AssignRoleDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\AssignRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:48:31.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IServiceCatalogService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IServiceCatalogService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IServiceCatalogService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IServiceCatalogService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IServiceCatalogService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:43:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:31:57.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:05:25.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminCategoryController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "Controllers\\AdminCategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:41:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAdminCatergoryService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IAdminCatergoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminCatergoryService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IAdminCatergoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminCatergoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:37:41.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TechnicianController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\TechnicianController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TechnicianController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\TechnicianController.cs",
+              "RelativeToolTip": "Controllers\\TechnicianController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:22:05.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITechnicianService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\ITechnicianService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITechnicianService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\ITechnicianService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITechnicianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:17:51.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TechnicianAssignment.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\TechnicianAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\TechnicianAssignment.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\TechnicianAssignment.cs",
+              "RelativeToolTip": "Models\\TechnicianAssignment.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:59:15.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:50:54.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:33:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServiceCategory.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\ServiceCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceCategory.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\ServiceCategory.cs",
+              "RelativeToolTip": "Models\\ServiceCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:34:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:42:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ReportService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\ReportService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ReportService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:51:46.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:51:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:52:27.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Controllers\\ManagerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:21:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Helpers\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtTokenHelper.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Helpers\\JwtTokenHelper.cs",
+              "RelativeToolTip": "Helpers\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:04:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\ServiceRequestController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:43:11.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-04T07:55:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:59:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminServiceController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminServiceController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AdminServiceController.cs",
+              "RelativeToolTip": "Controllers\\AdminServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:52:20.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:59:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T09:25:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:27:01.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T16:21:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AdminService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Implementations\\AdminService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AdminService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:59:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:38:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:48:41.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Capstone_Project\\ServiceManagementSystem\\ServiceManagement.API\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:47:10.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

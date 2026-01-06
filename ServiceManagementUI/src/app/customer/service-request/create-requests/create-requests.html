@@ -1,0 +1,151 @@
+<div class="create-request-container fade-in">
+    <mat-card class="glass-card">
+        <div class="card-header-gradient">
+            <div class="header-content">
+                <mat-icon class="header-icon">add_circle_outline</mat-icon>
+                <div>
+                    <mat-card-title>Create Service Request</mat-card-title>
+                    <mat-card-subtitle>Let us know what you need help with</mat-card-subtitle>
+                </div>
+            </div>
+        </div>
+
+        <mat-card-content class="form-content">
+            <form [formGroup]="requestForm" (ngSubmit)="onSubmit()">
+                <!-- Service Selection Section -->
+                <h3 class="section-title">
+                    <mat-icon>category</mat-icon> Service Details
+                </h3>
+
+                <div class="form-row">
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>Service Category</mat-label>
+                        <mat-select formControlName="categoryId" (selectionChange)="onCategoryChange($event.value)">
+                            <mat-option *ngFor="let category of categories" [value]="category.categoryId">
+                                {{category.categoryName}}
+                            </mat-option>
+                        </mat-select>
+                        <mat-error *ngIf="requestForm.get('categoryId')?.hasError('required')">
+                            Category is required
+                        </mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>Service Type</mat-label>
+                        <mat-select formControlName="serviceId" [disabled]="!selectedCategoryServices.length">
+                            <mat-option *ngFor="let service of selectedCategoryServices" [value]="service.serviceId">
+                                {{service.serviceName}} - <span class="price">{{service.basePrice | currency}}</span>
+                            </mat-option>
+                        </mat-select>
+                        <mat-error *ngIf="requestForm.get('serviceId')?.hasError('required')">
+                            Service is required
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+
+                <mat-form-field appearance="outline" class="full-width">
+                    <mat-label>Issue Description</mat-label>
+                    <textarea matInput formControlName="issueDescription" rows="4"
+                        placeholder="Please describe the issue in detail..."></textarea>
+                    <mat-error *ngIf="requestForm.get('issueDescription')?.hasError('required')">
+                        Description is required
+                    </mat-error>
+                </mat-form-field>
+
+                <div class="form-row">
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>Priority</mat-label>
+                        <mat-select formControlName="priority">
+                            <mat-option value="Low">
+                                <mat-icon class="priority-low">low_priority</mat-icon> Low
+                            </mat-option>
+                            <mat-option value="Medium">
+                                <mat-icon class="priority-medium">drag_handle</mat-icon> Medium
+                            </mat-option>
+                            <mat-option value="High">
+                                <mat-icon class="priority-high">priority_high</mat-icon> High
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>Preferred Schedule</mat-label>
+                        <input matInput type="datetime-local" formControlName="scheduledDate">
+                        <mat-error *ngIf="requestForm.get('scheduledDate')?.hasError('required')">
+                            Schedule date is required
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+
+                <!-- Location Section -->
+                <h3 class="section-title">
+                    <mat-icon>location_on</mat-icon> Location Details
+                </h3>
+
+                <mat-form-field appearance="outline" class="full-width">
+                    <mat-label>Service Address</mat-label>
+                    <textarea matInput formControlName="serviceAddress" rows="2"
+                        placeholder="Street address, Apartment, etc."></textarea>
+                    <mat-error *ngIf="requestForm.get('serviceAddress')?.hasError('required')">
+                        Address is required
+                    </mat-error>
+                </mat-form-field>
+
+                <div class="form-row">
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>City</mat-label>
+                        <input matInput formControlName="serviceCity">
+                        <mat-error *ngIf="requestForm.get('serviceCity')?.hasError('required')">
+                            City is required
+                        </mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field appearance="outline" class="half-width">
+                        <mat-label>Pincode</mat-label>
+                        <input matInput formControlName="servicePincode" maxlength="6">
+                        <mat-error *ngIf="requestForm.get('servicePincode')?.hasError('pattern')">
+                            Invalid pincode (6 digits required)
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+                <br>
+                <!-- Price Summary Section -->
+                <div class="price-summary-card" *ngIf="getSelectedService()">
+                    <div class="summary-header">
+                        <mat-icon>payments</mat-icon>
+                        <span>Estimate Amount</span>
+                    </div>
+                    <div class="summary-details">
+                        <div class="summary-line">
+                            <span>Base Price</span>
+                            <strong>{{getSelectedService().basePrice | currency}}</strong>
+                        </div>
+                        <div class="summary-line">
+                            <span>Estimated Tax (18%)</span>
+                            <strong>{{getSelectedService().basePrice * 0.18 | currency}}</strong>
+                        </div>
+                        <mat-divider></mat-divider>
+                        <div class="summary-line total">
+                            <span>Total Estimate</span>
+                            <strong>{{getSelectedService().basePrice * 1.18 | currency}}</strong>
+                        </div>
+                    </div>
+                    <p class="price-note">* Final amount may vary based on actual work required.</p>
+                </div>
+
+                <div class="actions">
+                    <button mat-button type="button" (click)="resetForm()" [disabled]="loading">
+                        Reset
+                    </button>
+                    <button mat-raised-button color="primary" type="submit" [disabled]="!requestForm.valid || loading"
+                        class="submit-btn">
+                        <mat-icon *ngIf="!loading">send</mat-icon>
+                        <mat-spinner diameter="20" *ngIf="loading"></mat-spinner>
+                        <span *ngIf="!loading">Submit Request</span>
+                        <span *ngIf="loading">Processing...</span>
+                    </button>
+                </div>
+            </form>
+        </mat-card-content>
+    </mat-card>
+</div>

@@ -1,0 +1,14 @@
+
+
+.service-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.service-card {
+  text-align: center;
+  padding: 1.5rem;
+}
