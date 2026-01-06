@@ -70,11 +70,10 @@ dotnet restore
 dotnet ef database update
 dotnet run
 
-Backend: http://localhost:5039
-or
+
 Backend: https://localhost:7087
 
-Swagger: http://localhost:5039/swagger
+Swagger: https://localhost:7087/swagger
 
 3️⃣ Start Frontend
 cd ServiceManagementUI
