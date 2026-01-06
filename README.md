@@ -1,1 +1,186 @@
 # ServiceManagementSystem
+# 🚀 Service Management System – Full-Stack Web Application
+
+An enterprise-level **Service Management System** built using **Angular 17+**, **ASP.NET Core 8 Web API**, and **SQL Server** to automate service requests, technician assignment, billing, and analytics.
+
+---
+
+## 📌 Project Overview
+
+- **Project Type:** Enterprise Service Request Management Platform  
+- **Duration:** July 2025 – December 2025 (6 Months)  
+- **Team Size:** Individual Capstone Project  
+- **Architecture:** Layered Architecture (Frontend → API → Data Access → Database)
+
+### 🎯 Target Users
+- **Customers** – Create and track service requests  
+- **Technicians** – Manage assigned tasks  
+- **Service Managers** – Assign technicians and monitor workload  
+- **Administrators** – Manage users, services, and system configuration  
+
+---
+
+## ✨ Key Features
+
+- Role-based authentication (Admin, Manager, Technician, Customer)
+- JWT authentication with BCrypt password hashing
+- End-to-end service request lifecycle management
+- Intelligent technician assignment & workload balancing
+- Automated billing with GST calculation
+- Payment tracking (UPI / Cash)
+- Customer feedback & rating system
+- Real-time dashboards & analytics using LINQ
+- RESTful API with Swagger documentation
+
+---
+
+## 🧱 System Architecture
+
+**Frontend:** Angular 17+ SPA  
+**Backend:** ASP.NET Core 8 Web API  
+**ORM:** Entity Framework Core + LINQ  
+**Database:** SQL Server (10 normalized tables)
+
+
+---
+
+## ⚡ Quick Start Guide (5 Minutes)
+
+### 🔹 Prerequisites
+- Node.js 18+
+- Angular CLI 17+
+- .NET SDK 8.0+
+- SQL Server / LocalDB
+- Git
+
+👉 Detailed installation steps: **[SETUP.md](./SETUP.md)**
+
+---
+
+## ▶️ Run the Application (Windows)
+
+### 1️⃣ Clone Repository
+```powershell
+git clone https://github.com/goulikaranvika/ServiceManagementSystem.git
+cd ServiceManagementSystem
+
+2️⃣ Start Backend
+cd ServiceManagement.API
+dotnet restore
+dotnet ef database update
+dotnet run
+
+Backend: http://localhost:5039
+or
+Backend: https://localhost:7087
+
+Swagger: http://localhost:5039/swagger
+
+3️⃣ Start Frontend
+cd ServiceManagementUI
+npm install
+ng serve
+
+Frontend: http://localhost:4200
+
+▶️ Run the Application (macOS / Linux)
+1️⃣ Start SQL Server (Docker)
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourStrong@Password" \
+-p 1433:1433 --name sqlserver \
+-d mcr.microsoft.com/mssql/server:2022-latest
+
+2️⃣ Update Connection String
+
+Edit appsettings.json:
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=localhost,1433;Database=ServiceManagementDB;User Id=sa;Password=YourStrong@Password;TrustServerCertificate=True"
+}
+
+3️⃣ Start Backend & Frontend
+dotnet restore
+dotnet ef database update
+dotnet run
+
+npm install
+ng serve
+
+🔐 Test Login Accounts
+
+⚠️ Demo credentials for academic/testing purposes only.
+
+Role           	     Email          	       Password
+Admin	            admin@gmail.com            Admin@123
+Manager         	manager@gmail.com         	Manager@123
+Technician	      tech1@gmail.com            Tech1@123
+Customer	        customer@gmail.com         Customer@123
+📊 Reports & Analytics
+
+Service requests by status & category
+
+Technician workload & performance
+
+Monthly and category-wise revenue
+
+Popular services ranking
+
+Customer satisfaction trends
+
+(All implemented using LINQ GroupBy, Aggregation & Filtering)
+
+🧪 Testing
+Backend
+dotnet test
+
+API Testing
+
+Swagger UI
+
+Postman
+
+🛠️ Common Commands
+Backend
+dotnet watch run
+dotnet ef database drop --force
+dotnet ef database update
+
+Frontend
+ng serve --open
+npm run build
+npm test
+
+🧩 Troubleshooting
+
+Port already in use
+
+lsof -ti:4200 | xargs kill -9
+
+
+Database not connecting
+
+sqllocaldb start MSSQLLocalDB
+
+
+CORS error
+
+Ensure backend is running
+
+Check CORS configuration in Program.cs
+
+🚀 Future Enhancements
+
+Mobile Application (Android / iOS)
+
+Email & SMS Notifications
+
+Payment Gateway Integration
+
+Real-time Chat
+
+Microservices Architecture
+
+Redis Caching
+
+Cloud Deployment (Azure / AWS)
+
+Machine Learning Analytics
